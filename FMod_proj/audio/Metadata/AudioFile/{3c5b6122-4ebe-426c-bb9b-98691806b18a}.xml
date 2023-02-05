@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3c5b6122-4ebe-426c-bb9b-98691806b18a}">
+		<property name="assetPath">
+			<value>Mushroom Theme.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>27.480816326530611</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0402864b-e884-4ea0-8083-b1b79587b0cd}</destination>
+		</relationship>
+	</object>
+</objects>

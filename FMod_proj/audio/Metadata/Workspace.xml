@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{e41804e5-5df8-4ce0-b626-44f68a811dc5}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../../../../../Projects/y3s2/GameAudio/Samurai-GameAudio/Assets/FMod_bank</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{840f98ab-3322-4b23-8256-2d17b8b14bc1}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{f6c9626b-be90-4483-8982-ba3ce76f4e05}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{62050a47-077f-47bd-89f3-2cbd0691594b}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{8baf3edb-96f5-498f-a185-ffdb15e2744e}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{011f2558-08e2-4501-a44a-4bed17932e5b}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{91c462f8-bd56-4c22-bcf9-8312f8b9fc5b}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{0402864b-e884-4ea0-8083-b1b79587b0cd}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{88d05c81-2fd5-4665-b51b-10f6502eb254}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{d746e540-96e8-4529-a6e7-ddbf7ff85276}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{f8fbdc73-7d06-42f0-a61c-a355a655219a}</destination>
+		</relationship>
+	</object>
+</objects>

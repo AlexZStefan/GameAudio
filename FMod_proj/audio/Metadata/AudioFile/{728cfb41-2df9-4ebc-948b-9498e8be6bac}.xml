@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{728cfb41-2df9-4ebc-948b-9498e8be6bac}">
+		<property name="assetPath">
+			<value>slots_stop.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.038276643990929705</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0402864b-e884-4ea0-8083-b1b79587b0cd}</destination>
+		</relationship>
+	</object>
+</objects>
